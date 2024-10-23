@@ -561,6 +561,17 @@
       "city": "Krakow",
       "username": "test user2",
       "avatar": ""
+    },
+    {
+      "id": "3",
+      "firstname": "Test",
+      "lastname": "User",
+      "age": "22",
+      "currency": "PLN",
+      "country": "Poland",
+      "city": "Krakow",
+      "username": "testuser",
+      "avatar": ""
     }
   ],
   "comments": [
